@@ -1,6 +1,9 @@
 ## System design
 - [System design introduction and concepts](https://softwaresystemdesign.com/intro)
 
+## Data structure and algorithms
+- [Grokking Algorithms](https://www.amazon.com.br/Grokking-Algorithms-Second-Aditya-Bhargava/dp/1633438538)
+
 ## Computer Science
 - [Teach yoursel computer science](https://teachyourselfcs.com/)
 
